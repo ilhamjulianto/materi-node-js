@@ -22,5 +22,8 @@ module.exports = {
   age: 20,
   print: function(){
     console.log("My name is "+this.name+" I'm "+this.age+" yo");
-  }
+       ein ageg[pqag \= p [  }e ypoethpwrgip
 };
+g
+a; nai[pea ni
+pi e[hinwar[o g4o o
